@@ -10,7 +10,7 @@ export interface Portfolio {
 export const portfolioData: Portfolio[] = [
   // Example entry
   {
-    title: "Causal Discovery Framework",
+    title: "Turner Box Discovery",
     description:
       "A framework for discovering causal relationships in high-dimensional time series data using state-of-the-art machine learning techniques.",
     technologies: ["Python", "PyTorch", "React"],
